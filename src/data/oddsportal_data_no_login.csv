@@ -2,20 +2,18 @@ sports,countries,leagues,pronos,date,time,team_1,team_2,outcome,bookmaker,odds,v
 Football,England,Championship,"O/U 3.5, 1st Half",2025-05-03,14:30,Derby,Stoke,Under,BetInAsia,2.22,2.07,95.59
 Football,France,Ligue 1,"O/U 3.5, 1st Half",2025-05-02,21:45,Nice,Reims,Under,BetInAsia,1.95,1.85,90.48
 Football,England,Championship,"O/U 3.5, 1st Half",2025-05-03,14:30,Coventry,Middlesbrough,Under,BetInAsia,2.25,2.11,90.46
+Football,England,Premier League,"O/U 3.5, 1st Half",2025-05-02,22:00,Manchester City,Wolves,Under,BetInAsia,1.96,1.85,90.04
 eSports,League of Legends,League of Legends LCK,Home/Away,2025-05-04,09:00,KT Rolster,T1,1,Betfury,3.1,1.59,56.78
-Baseball,USA,MLB,"Home/Away, FT including OT",2025-05-01,01:40,Cincinnati Reds,St.Louis Cardinals,1,Betway,2.85,1.54,52.03
-Hockey,USA,NHL,"Home/Away, FT including OT",2025-05-02,02:00,Ottawa Senators,Toronto Maple Leafs,1,Betfury,3.6,1.96,51.7
-eSports,League of Legends,League of Legends NLC,Home/Away,2025-04-30,22:00,Bulldog Esports,The Ruddy Sack,1,Betway,3.8,1.75,43.99
+Hockey,USA,NHL,"Home/Away, FT including OT",2025-05-02,02:00,Ottawa Senators,Toronto Maple Leafs,1,Betfury,3.6,1.96,51.74
 eSports,League of Legends,League of Legends LCK,Home/Away,2025-05-04,09:00,KT Rolster,T1,2,GGBET,5.34,1.84,43.22
-Hockey,USA,NHL,"Home/Away, FT including OT",2025-05-02,02:30,Minnesota Wild,Vegas Golden Knights,1,Betfury,5.5,2.32,40.35
-eSports,League of Legends,League of Legends LCK,Home/Away,2025-05-01,13:00,OKSavingsBank Brion,DRX,1,bet-at-home,6.75,1.92,38.88
+eSports,League of Legends,League of Legends LCK,Home/Away,2025-05-01,13:00,OKSavingsBank Brion,DRX,1,bet-at-home,6.75,2.05,41.27
+Hockey,USA,NHL,"Home/Away, FT including OT",2025-05-02,02:30,Minnesota Wild,Vegas Golden Knights,1,Betfury,5.5,2.32,40.34
 Basketball,Greece,Basket League,"1X2, 1st Half",2025-05-04,17:15,Olympiacos,AEK Athens,2,1xBet,14.2,1.78,14.42
 Handball,France,Starligue,DNB,2025-05-04,18:00,PSG,Limoges,2,bet365,17.0,1.55,9.19
 Handball,France,Starligue,DNB,2025-05-03,21:30,Nantes,Ivry,2,bet365,21.0,1.75,8.79
-Tennis,Kazakhstan,ITF M15 Shymkent 2 Men,Home/Away,2025-05-01,09:00,Fomin S.,Kumaran B. N.,2,Betfair,17.0,1.54,8.7
+Tennis,Kazakhstan,ITF M15 Shymkent 2 Men,Home/Away,2025-05-01,09:00,Fomin S.,Kumaran B. N.,2,Betfair,17.0,1.53,8.64
 Football,Egypt,Premier League,"O/U 3.5, 1st Half",2025-05-01,17:00,Ceramica Cleopatra,National Bank Egypt,Over,1xBet,26.0,1.85,8.42
 Football,Canada,Canadian Premier League,"O/U 3.5, 1st Half",2025-05-04,02:00,Valour,Vancouver FC,Over,1xBet,29.0,2.06,7.79
-Football,Brazil,Brasileiro Women,"O/U 4.5, 1st Half",2025-04-30,22:00,Juventude W,Palmeiras W,Over,1xBet,34.0,2.19,7.52
 Football,Brazil,Serie C,"O/U 3.5, 1st Half",2025-05-04,01:30,Tombense,Itabaiana,Over,1xBet,34.0,2.24,7.48
 Football,Brazil,Serie C,"O/U 3.5, 1st Half",2025-05-03,23:00,Maringa FC,Confianca,Over,1xBet,34.0,2.22,7.46
 Football,Egypt,Premier League,"O/U 3.5, 1st Half",2025-05-01,20:00,Al Masry,Zamalek,Over,1xBet,34.0,2.01,7.39
@@ -28,34 +26,33 @@ Football,Chile,Liga de Ascenso,"O/U 3.5, 1st Half",2025-05-05,22:00,Magallanes,C
 Football,Japan,J2 League,"O/U 3.5, 1st Half",2025-05-03,07:00,Vegalta Sendai,Renofa Yamaguchi,Over,1xBet,34.0,2.0,6.97
 Hockey,World,World Championship,"Home/Away, FT including OT",2025-05-10,13:20,Slovenia,Canada,1,Betsafe,41.0,2.38,6.74
 Football,Argentina,Torneo Betano,"O/U 3.5, 1st Half",2025-05-02,21:30,Racing Club,Newells Old Boys,Over,1xBet,34.0,2.02,6.5
-Boxing,World,Super Bantamweight - IBF/WBC/WBO Titles Men,1X2,2025-05-05,01:00,Inoue N.,Cardenas R.,2,Betfair,26.0,1.64,5.96
-Hockey,World,World Championship,1X2,2025-05-10,17:20,Sweden,Austria,X,Betfair,34.0,2.04,5.94
+Boxing,World,Super Bantamweight - IBF/WBC/WBO Titles Men,1X2,2025-05-05,01:00,Inoue N.,Cardenas R.,2,Betfair,26.0,1.62,5.96
 Hockey,World,World Championship,1X2,2025-05-10,13:20,Slovenia,Canada,X,Betsafe,30.0,1.79,5.91
 Football,Uruguay,Liga AUF Uruguaya,"O/U 3.5, 1st Half",2025-05-04,02:30,Cerro Largo,Plaza Colonia,Over,1xBet,41.0,1.95,5.85
 Football,Colombia,Primera A,"O/U 3.5, 1st Half",2025-05-03,03:00,La Equidad,Alianza,Over,1xBet,41.0,1.94,5.63
 Boxing,World,Lightweight - WBO Title Women,1X2,2025-05-23,21:00,Harper T.,Zimmermann N.,X,22Bet,32.0,1.62,5.19
 Futsal,Poland,Ekstraklasa,1X2,2025-05-04,19:00,Widzew Lodz,Piast Gliwice,1,1xBet,35.0,1.8,4.95
-Boxing,World,Super Middleweight - Others matches Men,1X2,2025-06-01,01:00,Charlo Ja.,LaManna T.,X,1xBet,38.0,1.7,4.56
-Boxing,World,Bantamweight - WBO Title Men,1X2,2025-05-28,13:00,Takei Y.,Tongdee Y.,X,22Bet,42.0,1.77,4.45
+Boxing,World,Super Middleweight - Others matches Men,1X2,2025-06-01,01:00,Charlo Ja.,LaManna T.,X,1xBet,35.0,1.61,4.6
+Boxing,World,Bantamweight - WBO Title Men,1X2,2025-05-28,13:00,Takei Y.,Tongdee Y.,X,1xBet,42.0,1.83,4.45
+Boxing,World,Heavyweight - Others matches Men,1X2,2025-06-07,21:00,Wardley F.,Miller J.,X,22Bet,35.0,1.57,4.43
 Boxing,World,Super Middleweight - Others matches Men,1X2,2025-05-03,23:00,Munguia J.,Surace B.,X,1xBet,38.0,1.71,4.25
 Football,England,Premier League,"O/U 4.5, 1st Half",2025-05-10,17:00,Wolves,Brighton,Over,1xBet,65.0,1.92,4.2
 Football,Germany,Bundesliga,"O/U 4.5, 1st Half",2025-05-11,18:30,Eintracht Frankfurt,St. Pauli,Over,1xBet,65.0,1.93,4.11
+Boxing,World,Lightweight - Others matches Men,1X2,2025-06-08,01:00,Mason A.,Nakathila J.,X,22Bet,39.0,1.57,4.07
 Football,England,Premier League,"O/U 4.5, 1st Half",2025-05-11,16:15,Manchester Utd,West Ham,Over,1xBet,65.0,1.86,4.06
 Boxing,World,Lightweight - WBO Title Men,1X2,2025-06-08,01:00,Davis K.,De Los Santos E.,X,22Bet,40.0,1.64,4.04
 Football,Italy,Serie A,"O/U 4.5, 1st Half",2025-05-12,21:45,Atalanta,AS Roma,Over,1xBet,65.0,1.85,4.01
 Football,Europe,Champions League,"O/U 4.5, 1st Half",2025-05-07,22:00,PSG,Arsenal,Over,1xBet,65.0,1.96,3.97
-Boxing,World,Lightweight - Others matches Men,1X2,2025-06-08,01:00,Mason A.,Nakathila J.,X,22Bet,50.0,1.84,3.96
 Boxing,World,Super Featherweight - WBA/WBC/WBO/IBO/IBF Titles Women,1X2,2025-07-12,01:00,Baumgardner A.,Miranda J.,X,22Bet,44.0,1.74,3.94
-Boxing,World,Welterweight - Others matches Men,1X2,2025-05-05,01:00,Polanco R.,Maidana F. A.,X,1xBet,41.0,1.66,3.87
+Football,Faroe Islands,Premier League,1X2,2025-05-01,19:30,Klaksvik,TB Tvoroyri,2,Betfair,56.0,2.22,3.88
+Boxing,World,Welterweight - Others matches Men,1X2,2025-05-05,01:00,Polanco R.,Maidana F. A.,X,1xBet,41.0,1.66,3.88
 Futsal,Czech Republic,1. Futsal liga,1X2,2025-05-01,18:00,SK Interobal Plzen,Liberec,2,10bet,46.0,1.81,3.85
 Football,England,Premier League,"O/U 4.5, 1st Half",2025-05-03,14:30,Aston Villa,Fulham,Over,1xBet,65.0,1.92,3.84
 Football,Germany,Bundesliga,"O/U 4.5, 1st Half",2025-05-04,18:30,Freiburg,Bayer Leverkusen,Over,1xBet,65.0,1.92,3.84
 Football,England,Premier League,"O/U 4.5, 1st Half",2025-05-01,21:30,Nottingham,Brentford,Over,1xBet,65.0,1.88,3.82
 Football,England,Premier League,"O/U 4.5, 1st Half",2025-05-03,17:00,Leicester,Southampton,Over,1xBet,65.0,1.9,3.82
-Boxing,World,Super Middleweight - Others matches Men,1X2,2025-06-01,01:00,Plant C.,Resendiz J. A.,X,1xBet,45.0,1.7,3.82
 Football,France,Ligue 1,"O/U 4.5, 1st Half",2025-05-10,22:00,Angers,Strasbourg,Over,1xBet,80.0,2.19,3.76
-Football,Faroe Islands,Premier League,1X2,2025-05-01,19:30,Klaksvik,TB Tvoroyri,2,Betfair,56.0,2.11,3.75
-Boxing,World,Super Bantamweight - IBF/WBC/WBO Titles Men,1X2,2025-05-05,01:00,Inoue N.,Cardenas R.,X,Betfair,176.0,5.87,3.65
+Boxing,World,Super Bantamweight - IBF/WBC/WBO Titles Men,1X2,2025-05-05,01:00,Inoue N.,Cardenas R.,X,Betfair,176.0,5.86,3.65
 Hockey,World,World Championship,1X2,2025-05-10,13:20,Slovenia,Canada,1,Betsafe,50.0,1.76,3.56
-Football,Spain,Liga F Women,1X2,2025-05-01,13:00,Badalona W,Barcelona W,1,Betfair,56.0,2.0,3.43
+Football,Spain,Liga F Women,1X2,2025-05-01,13:00,Badalona W,Barcelona W,1,Betfair,56.0,1.98,3.42
 Boxing,World,Heavyweight - Others matches Men,1X2,2025-05-24,21:00,Itauma M.,Balogun M.,X,1xBet,50.0,1.59,3.21

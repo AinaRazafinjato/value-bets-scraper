@@ -3,5 +3,6 @@ pandas==2.2.1
 playwright==1.51.0
 beautifulsoup4==4.12.2
 python-dotenv==1.1.0
+plyer
 customtkinter
 CTkTable

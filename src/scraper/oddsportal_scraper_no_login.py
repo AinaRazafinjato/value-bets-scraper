@@ -6,6 +6,8 @@ import time
 from loguru import logger
 from typing import Tuple, Optional
 import os
+from plyer import notification
+import getpass
 
 
 def configure_logger() -> None:
@@ -178,6 +180,17 @@ def main() -> None:
         if html:
             df = extract_data_from_html(html)
             df = clean_and_process_data(df)
+            
+            # Check for values > 50 in the 'probability' column
+            high_probability_count = (df["probability"] > 50).sum()
+            if high_probability_count > 0:
+                username = getpass.getuser()
+                notification.notify(
+                    title="OddsPortal Value Bets Alert",
+                    message=f"Hi {username}, {high_probability_count} new value bets detected! Check them out now.",
+                    timeout=10
+                )
+            
             export_data_to_csv(df, "oddsportal_data_no_login.csv")
         else:
             logger.warning("No HTML content to parse.")
