@@ -1,0 +1,8 @@
+# Les fichiers cache de python
+*__pycache__/
+
+# Les informations sensibles (login, mots de passe, etc.)
+*.env
+
+# Les fichiers de log de l'application
+*.log
