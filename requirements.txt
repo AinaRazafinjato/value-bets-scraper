@@ -1,8 +1,18 @@
-loguru==0.7.3
+# Base dependencies
 pandas==2.2.1
+numpy==1.24.0
+loguru==0.7.3
 playwright==1.51.0
 beautifulsoup4==4.12.2
 python-dotenv==1.1.0
-plyer
-customtkinter
-CTkTable
+plyer==2.1.0
+
+# GUI related dependencies
+customtkinter==5.2.2
+CTkTable==0.8
+matplotlib==3.8.3
+
+# System integration
+pillow==10.2.0  # For image handling in customtkinter
+packaging==24.0  # For version handling
+darkdetect==0.8.0  # For system theme detection
